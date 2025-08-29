@@ -14,13 +14,13 @@
 ### Read my papers here !!!
 
 - **Give me a hint: Can LLMs take hint to solve math problems?** - [Paper](https://arxiv.org/abs/2410.05915)
-  - *NeurIPS’24 Math-AI Workshop, 2024*
+  - *NeurIPS Math-AI Workshop, 2024*
     
 - **Adaptive Urban Planning: A Hybrid Framework for Balanced City Development** - [Paper](https://arxiv.org/abs/2412.15349)
   - *AAAI AI4UP Workshop, 2024*
  
 - **StegaVision: Enhancing Steganography with Attention Mechanism** - [Paper](https://arxiv.org/abs/2411.05838)
-  - *AAAI-25 Student abstract, 2024*
+  - *AAAI Student abstract, 2024*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
